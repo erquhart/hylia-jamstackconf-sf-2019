@@ -1,5 +1,5 @@
 ---
-title: 'Boom, edited.'
+title: 'Boom, edited. Twice.'
 date: '2019-06-18'
 tags:
   - demo-content
